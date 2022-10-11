@@ -3,6 +3,18 @@ body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.assignment {
+    display:flex;
+    padding:10px;
+    margin: 10px;
+    background-color:lightblue;
+}
+
+.assignment img {
+    width: 200px;
+    padding: 10px;
+}
+
 h1 {
     color:rgb(127,147, 200);
     text-align: center;
